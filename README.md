@@ -10,6 +10,7 @@ flutter version 2.5.2 • channel stable
 A few resources to get you started if this is your first Flutter project:
 
 used in this app fireStore  => for retrieving data and store chat messages and listen to new messages
+
 used in this app fireBase - storage  => for storing images
 
 For help getting started with Flutter, view our
