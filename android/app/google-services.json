@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352117668145",
+    "project_id": "technocloud-bb9ab",
+    "storage_bucket": "technocloud-bb9ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352117668145:android:6c18a6c1071f1a4af75810",
+        "android_client_info": {
+          "package_name": "com.technocloud.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352117668145-57k8rn1rdclfk8li7he9qdv9mfrc1kui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2DLQOXhnmSSyKrsMnn1WZX0-_rc3Uo4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352117668145-57k8rn1rdclfk8li7he9qdv9mfrc1kui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
